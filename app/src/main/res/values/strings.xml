@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CC17App</string>
+    <string name="title_activity_resto_location">Map</string>
+    <string name="title_activity_test">Map</string>
+</resources>
